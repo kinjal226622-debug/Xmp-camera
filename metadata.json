@@ -1,0 +1,6 @@
+{
+  "name": "XMP Camera Pro",
+  "description": "Professional DSLR camera with Lightroom-style XMP preset support, manual pro controls, real-time GPU color grading, and cinematic photo/video recording.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
